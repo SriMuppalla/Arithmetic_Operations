@@ -8,7 +8,7 @@ public class ArithmeticOperations {
 	int input1,input2;
 	String userChoice=null;
 	do {
-		System.out.println("****Welcome to TechFinder *****");
+		System.out.println("****Welcome to TechFinder channel *****");
 		System.out.println("1.Addition");
 		System.out.println("2.Substraction");
 		System.out.println("3.Multiplication");
